@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-![Profile Icon](/img/avatar.png)
+![Profile Icon](/img/avatar.png | width=250)
 
 # I am a digital humanist working on the border of technology and culture.
 
