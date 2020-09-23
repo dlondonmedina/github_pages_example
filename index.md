@@ -13,10 +13,18 @@ As a teacher, researcher, developer and writer, I am interested in exploring com
 
 # Contact Me
 
- [![Homepage](img/home-solid.png)](https://www.dylanmedina.com) [![LinkedIn](img/linkedin-brands.png)](https://www.linkedin.com/in/dlondonmedina/)  [![](img/twitter-square-brands.png)](https://www.twitter.com/dlondonmedina) [![](img/facebook-square-brands.png)](https://dylanmedina.com) [![](img/github-square-brands.png)](https://github.com/dlondonmedina) [![](img/envelope-regular.png)](https://dylanmedina.com)
+ [![Homepage](img/home-solid.png)](https://www.dylanmedina.com) 
+ [![LinkedIn](img/linkedin-brands.png)](https://www.linkedin.com/in/dlondonmedina/) 
+ [![](img/twitter-square-brands.png)](https://www.twitter.com/dlondonmedina) 
+ 
+ [![](img/facebook-square-brands.png)](https://dylanmedina.com) 
+ [![](img/github-square-brands.png)](https://github.com/dlondonmedina) 
+ [![](img/envelope-regular.png)](https://dylanmedina.com)
 
-
+---
 
 
 ### Credits
 #### Icons from [Font Awesome](https://fontawesome.com/license)
+ 
+ ---
